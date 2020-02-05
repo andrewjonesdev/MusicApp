@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2020-02-05T18:33:01.6599521-06:00",
+    "temperatureC": -9,
+    "temperatureF": 16,
+    "summary": "Cool"
+  },
+  {
+    "date": "2020-02-06T18:33:01.6621463-06:00",
+    "temperatureC": 52,
+    "temperatureF": 125,
+    "summary": "Hot"
+  },
+  {
+    "date": "2020-02-07T18:33:01.6621501-06:00",
+    "temperatureC": -4,
+    "temperatureF": 25,
+    "summary": "Mild"
+  },
+  {
+    "date": "2020-02-08T18:33:01.6621505-06:00",
+    "temperatureC": 48,
+    "temperatureF": 118,
+    "summary": "Sweltering"
+  },
+  {
+    "date": "2020-02-09T18:33:01.6621508-06:00",
+    "temperatureC": -18,
+    "temperatureF": 0,
+    "summary": "Balmy"
+  }
+]
